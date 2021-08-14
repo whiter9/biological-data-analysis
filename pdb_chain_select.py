@@ -44,9 +44,3 @@ if __name__ == "__main__":
     io.set_structure(structure)
     chains_id = "".join(keep_chains)
     io.save("{}_{}.pdb".format(pdb_id,chains_id), select=KeepChains(keep_chains))
-    
-   
-    
-    
-    
-
