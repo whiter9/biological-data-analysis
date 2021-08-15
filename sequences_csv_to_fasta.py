@@ -1,7 +1,4 @@
 import pandas as pd
-import numpy as numpy
-import matplotlib.pyplot as plt
-import seaborn as sns
 
 fold = '4H'
 _4H = pd.read_csv('4H_NGS_filtered.csv', header=0)
