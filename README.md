@@ -10,8 +10,8 @@
 <!-- USAGE EXAMPLES -->
 ## Contents and Usage 
 
-* `blast_fasta.py` - Iteratively run NCBI BLAST query on a set of input protein sequences
-* `pdb_chain_select.py` - Generate a new PDB file containing only the 
+* `blast_fasta.py` - Iteratively runs NCBI BLAST query on a set of input protein sequences
+* `pdb_chain_select.py` - Generates a new PDB file containing only the 
 specified chain or chains of an existing PDB entry
 
 <!-- ACKNOWLEDGEMENTS -->
