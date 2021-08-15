@@ -17,5 +17,4 @@ specified chain or chains of an existing PDB entry
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
 * [Biopython BLAST tutorial](https://biopython-tutorial.readthedocs.io/en/latest/notebooks/07%20-%20Blast.html)
-* [Img Shields](https://shields.io)
 
