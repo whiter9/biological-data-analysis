@@ -10,7 +10,7 @@
 <!-- USAGE EXAMPLES -->
 ## Contents and Usage 
 
-* `blast-fasta.py` - Biopython program to iteratively run NCBI BLAST query on a set of input protein sequences
+* `blast_fasta.py` - Biopython program to iteratively run NCBI BLAST query on a set of input protein sequences
 * `pdb_chain_select.py` - Biopython program to generate a new PDB file containing only the 
 specified chain or chains of an existing PDB entry
 
