@@ -1,2 +1,2 @@
-# Biological Data Analysis for Rosetta Commons Research Project
+# Data Analysis Workflows for Rosetta Commons Research Project
 
