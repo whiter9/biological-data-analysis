@@ -10,7 +10,7 @@
 <!-- USAGE EXAMPLES -->
 ## Contents and Usage 
 
-* 
+* `blast-fasta.py` - 
 
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
