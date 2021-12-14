@@ -1,4 +1,4 @@
-# Selection of Biopython Workflows for Processing Biological / Bioinformatics Data
+# Selection of Biopython Workflows for Processing Biological Data
 
 <!-- GETTING STARTED -->
 
